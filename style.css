@@ -15,3 +15,7 @@ a.custom1 {
 .h1{
     display: inline;
 }
+
+.home {
+    font-size: 50px;
+}
